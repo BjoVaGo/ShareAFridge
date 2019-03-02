@@ -1,6 +1,8 @@
 {
   "name": "ShareAfridge",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular",
   "id": "2f4a9f7e"
 }
