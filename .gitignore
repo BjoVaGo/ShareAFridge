@@ -27,9 +27,13 @@ platforms/
 plugins/
 plugins/android.json
 plugins/ios.json
-assets/imgs/Avatars/
 $RECYCLE.BIN/
 
 .DS_Store
 Thumbs.db
 UserInterfaceState.xcuserstate
+src/assets/imgs/Avatars/bjorn.jpg
+src/assets/imgs/Avatars/ilja.jpg
+src/assets/imgs/Avatars/hendrik.jpg
+src/assets/imgs/Avatars/kenny.jpg
+src/assets/imgs/Avatars/peter.jpg

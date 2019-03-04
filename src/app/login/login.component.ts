@@ -54,6 +54,7 @@ export class LoginComponent implements OnInit {
         })
         loading.dismiss();
       }, err => {
+        console.log(this.platform);
         console.log(err);
         if(!this.platform.is('cordova')){
           this.presentAlert();
